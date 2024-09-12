@@ -1,0 +1,37 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    display: block;
+}
+
+ul {
+    list-style-type: none;
+    margin: auto 5px;
+    padding: 5px;
+}
+
+.pizza {
+    display: block;
+    margin: 5px;
+}
+
+.lasagna {
+    display: block;
+    margin: 5px;
+}
+
+.burger {
+    display: block;
+    margin: 5px;
+}
+
+
+h1 {
+    color: black;
+    background-color: red;
+    display: inline-block;
+    margin: auto 5px;
+    padding: 5px 5px;
+    border: 1px solid black;
+    border-radius: 10%;
+}
